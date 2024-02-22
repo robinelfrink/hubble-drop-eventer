@@ -1,3 +1,7 @@
+# This repository has been archived
+
+Because [29565](https://github.com/cilium/cilium/pull/29565) has been merged.
+
 # Hubble Drop Eventer
 
 Creates [Kubernetes Events](https://kubernetes.io/docs/reference/kubernetes-api/cluster-resources/event-v1/)
